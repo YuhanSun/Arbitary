@@ -1,0 +1,1 @@
+/usr/bin/c++.exe  -g  -Wl,--enable-auto-import CMakeFiles/Arbitary.dir/main.cpp.o  -o Arbitary.exe -Wl,--out-implib,libArbitary.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
